@@ -1,0 +1,35 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Cosmos (8.0.2)
+  - EZAlertController (3.2)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Cosmos
+  - EZAlertController
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Cosmos: 007c0b8e33a85e5363911bdd933571bbe221f7ef
+  EZAlertController: 633be01320bed47720be54054df47667d61c2481
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: ba18064cf7eae140e818c07e1fb58088bd984c22
+
+COCOAPODS: 1.2.0
